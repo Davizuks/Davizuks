@@ -28,8 +28,8 @@ class DaviVarella:
                   "Microservices"]
 
     # ── Info ───────────────────────────
-    work     = "🔭 Financial market"
-    learning = "🌱 BigData & CI/CD"
+    work     = "🔭 FullStack Developer"
+    learning = "🌱 BigData & IA"
     fun_fact = "🚀 Problem solver"
 
     def __str__(self) -> str:
