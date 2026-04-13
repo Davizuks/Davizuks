@@ -45,8 +45,9 @@ print(DaviVarella())
 </td>
 <td width="45%" valign=middle">
  
-<img src="https://github-readme-stats.vercel.app/api?username=Davizuks&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&icon_color=ffffff" width="100%"/>
- 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Davizuks&theme=github_dark" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Davizuks&theme=github_dark&utcOffset=-3" width="49%"/>
+
 <img src="https://streak-stats.demolab.com?user=Davizuks&theme=dark&hide_border=true&background=0d1117&stroke=444&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=888888&currStreakNum=ffffff&sideNums=ffffff" width="100%"/>
  
 </td>
