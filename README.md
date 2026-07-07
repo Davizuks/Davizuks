@@ -19,17 +19,17 @@ class DaviVarella:
 
     # ── Stack ──────────────────────────
     languages  = ["Python"]
-    frameworks = ["FastAPI", "Falcon",
+    frameworks = ["React", "Falcon",
                   "SQLAlchemy"]
     databases  = ["PostgreSQL"]
-    infra      = ["Docker", "AWS",
+    infra      = ["Docker", "AWS", "GCP",
                   "Terraform"]
     practices  = ["CI/CD", "SQS",
                   "Microservices"]
 
     # ── Info ───────────────────────────
     work     = "🔭 FullStack Developer"
-    learning = "🌱 BigData & IA"
+    learning = "🌱 AI"
     fun_fact = "🚀 Problem solver"
 
     def __str__(self) -> str:
