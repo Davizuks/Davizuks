@@ -81,8 +81,6 @@ print(DaviVarella())
 
 [![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31xpxag2vrv2jhiufbogqwf56b6a&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=1DB954&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31xpxag2vrv2jhiufbogqwf56b6a&redirect=true)
 
-<br>
-
 > *"Everything is precious*
 > *to one who has long*
 > *been deprived of everything."*
